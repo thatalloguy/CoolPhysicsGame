@@ -1,0 +1,5 @@
+C:\Users\allos\source\repos\CoolPhysicsGame\Debug\CoolPhysicsGame.exe
+C:\Users\allos\source\repos\CoolPhysicsGame\Debug\CoolPhysicsGame.vcxproj.CopyComplete
+C:\Users\allos\source\repos\CoolPhysicsGame\Debug\glew32d.dll
+C:\Users\allos\source\repos\CoolPhysicsGame\Debug\glfw3.dll
+C:\Users\allos\source\repos\CoolPhysicsGame\Debug\raylib.dll

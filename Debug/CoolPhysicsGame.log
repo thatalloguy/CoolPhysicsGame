@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\allos\source\repos\CoolPhysicsGame\Instructo\Utils\Toolbox.h(45,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\allos\source\repos\CoolPhysicsGame\Instructo\Utils\ECS.h(14,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\allos\source\repos\CoolPhysicsGame\Instructo\Utils\ECS.h(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\allos\source\repos\CoolPhysicsGame\Source.cpp(63,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\allos\source\repos\CoolPhysicsGame\Source.cpp(74,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\allos\source\repos\CoolPhysicsGame\Source.cpp(16,9): warning C4101: 'island': unreferenced local variable
+  CoolPhysicsGame.vcxproj -> C:\Users\allos\source\repos\CoolPhysicsGame\Debug\CoolPhysicsGame.exe
